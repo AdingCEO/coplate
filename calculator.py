@@ -1,4 +1,4 @@
-#계산기
+#기본 계산기
 def addO(a,b):
     return a+b
 
